@@ -15,7 +15,7 @@ const Nav = () => (
       <a>About </a>
     </Link>
     <Link href="/news">
-      <a>News  </a>
+      <a>News </a>
     </Link>
 
     <style jsx>{`
